@@ -166,7 +166,7 @@ a {
   object-fit: cover;
   border-radius: 0 6px 6px 0;
   position: relative;
-  left: -4px;
+  left: -5px;
   top: -65px;
 }
 
@@ -597,11 +597,11 @@ a {
   content: "";
   display: inline-block;
   height: 2px;
-  width: 120px;
+  width: 111px;
   background-color: #10375c;
   position: relative;
   bottom: -6px;
-  left: -122px;
+  left: -111px;
 }
 
 .news-heading__chevron {
